@@ -1,0 +1,1 @@
+2014-10-11 15:57:12: imagepng(): Unable to open '/home/ubuntu/Dropbox/hackzurich/www//images/qrCodes/36_temp.png' for writing: No such file or directory

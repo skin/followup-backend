@@ -1,0 +1,1 @@
+2014-10-11 14:00:48: imagepng(): Unable to open '/home/ubuntu/Dropbox/hackzurich/www/qrCodes/test.png' for writing: Permission denied

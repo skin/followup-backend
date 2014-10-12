@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="hackzurich">
+    <serverData>
+      <paths name="hackzurich">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="http://ec2-54-69-236-51.us-west-2.compute.amazonaws.com/www" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
